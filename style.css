@@ -38,5 +38,67 @@ h1{
     background-position: center;
     
 }
+.statement{
+    text-align: center;
+}
+
+.cash{
+    display: flex;
     
+}
+.shadow{
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(207, 203, 203);
+    border-radius: 2px;
+    margin: 5px 10px 5px 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+#chose{
+    color: tomato;
+    border: 1px;
+    border-style: solid;
+    border-color: tomato;
+    background-color: rgb(230, 194, 193);
+
+}
+
+    
+
+.box{
+    box-shadow: 10px 10px 10px grey;
+}
+.region{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.display{
+    text-align: center;
+}
+.width{
+    width: 33%;
+}
+.donar-item{
+    margin-left: 8px;
+    margin-right: 10px;
+    margin-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    box-shadow: 10px 10px 40px grey;
+}   
+#food{
+    background-color: rgb(180, 201, 194);
+} 
+#shelter{
+    background-color: rgb(194, 153, 194);
+}
+#education{
+    background-color: rgb(124, 124, 100);
+}
     
