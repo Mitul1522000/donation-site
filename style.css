@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    
+}
+h1{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+.poster p{
+    color: white;
+}
+.introduction{
+    text-align: center;
+}
+
+.link-orientation{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,red);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    
+}
+.poster{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+}
+    
+    
