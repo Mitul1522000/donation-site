@@ -9,6 +9,9 @@ h1{
     font-size: 50px;
     font-weight: 700;
 }
+h2{
+    font-size: 40px;
+}
 .poster p{
     color: white;
 }
@@ -83,9 +86,10 @@ h1{
     width: 33%;
 }
 .donar-item{
-    margin-left: 8px;
-    margin-right: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
     margin-top: 20px;
+    margin-bottom: 50px;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 10%;
@@ -100,5 +104,31 @@ h1{
 }
 #education{
     background-color: rgb(124, 124, 100);
+}
+.width-range{
+    width: 50%;
+}
+.width-range img{
+    width: 60%;
+}
+.space{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#bar{
+    margin-top: 10%;
+}
+.box{
+            background-color: rgb(170, 170, 138); 
+            font-size: 20px; 
+            padding: 20px; 
+            border: 1px solid lightgray; 
+            margin: 80px;"
+}
+.bg{
+    color: tomato;
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
     
