@@ -36,6 +36,8 @@ h2{
 .poster{
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
+    height: 200%;
+    
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -48,6 +50,11 @@ h2{
 .cash{
     display: flex;
     
+}
+
+.center{
+    margin-left: 38%;
+    left: 50%;
 }
 .shadow{
     border: 1px;
@@ -121,6 +128,8 @@ h2{
 .box{
             background-color: rgb(170, 170, 138); 
             font-size: 20px; 
+            margin-left: 25%;
+            margin-right: 25%;
             padding: 20px; 
             border: 1px solid lightgray; 
             margin: 80px;"
